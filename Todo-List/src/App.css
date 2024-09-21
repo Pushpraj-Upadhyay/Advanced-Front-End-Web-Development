@@ -1,0 +1,24 @@
+input {
+    font-size: 20px;
+    width: 100%;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+button {
+    width: 50%;
+}
+
+.EmptyMessage {
+    margin: 4rem 0;
+}
+
+.todoItem {
+    font-size: 20px;
+    margin: 0.25rem 0;
+}
+
+.todoContent {
+    text-align: left;
+}
+
