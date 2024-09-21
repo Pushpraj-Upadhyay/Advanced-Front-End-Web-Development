@@ -1,0 +1,37 @@
+.main-content {
+    display: flex;
+}
+
+.form-data {
+    margin-top: 1rem;
+    margin-left: 10%;
+    width: 60%;
+}
+
+.emptyMessage {
+    margin: auto;
+}
+
+.posts {
+    display: flex;
+    flex-direction: column;
+}
+
+.post {
+    width: 60vw;
+    margin: 1.5rem 0 0 0.5rem;
+}
+
+.delete-button {
+    font-size: 20px;
+}
+
+.post-content {
+    font-size: 18px;
+    text-wrap: wrap;
+}
+
+.tags {
+    margin: 0 0.25rem;
+    font-size: 16px;
+}
